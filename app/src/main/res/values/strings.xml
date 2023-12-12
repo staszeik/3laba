@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">instagram</string>
+    <string name="todo">TODO</string>
+    <string name="todo1">TODO</string>
+    <string name="asd2">TODO</string>
+    <string name="asd5">TODO</string>
+    <string name="te">TODO</string>
+    <string name="myprofile">MyProfile</string>
+    <string name="web_dev">web-dev</string>
+    <string name="af">Возраст:</string>
+    <string name="asf">Специализация:</string>
+</resources>
